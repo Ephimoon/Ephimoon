@@ -4,17 +4,17 @@
 
 I'm a student at the University of Houston studying Computer Science 👩🏻‍💻
 
-## Currently working on...
+## Finished Recently:
 - 🎨 **Museum of Fine Arts Database System**: A project for managing art collections, exhibitions, and other operations.
 - 🎈 **Volunteer Management System**: A project to help a non-profit organization manage volunteering events.
 
-## 🌱 Currently Learning
-- MERN Stack!
+## 🌱 Currently working on...
+- **AI Video Chatbot**: A chatbot that responds with a Video based on what the client is asking while chatting.
 
 ## 💻 Technologies & Skills
-- 🌐 Web Development: HTML, CSS, React + Vite
+- 🌐 Web Development: HTML, CSS, React
 - 💾 Backend: Python, C++
-- 🎨 UI/UX: Figma, Responsive Design
+- 🎨 UI/UX: Figma
 
 ---
 📫 **How to reach me**: [mel.and.bar03@gmail.com](mailto:mel.and.bar03@gmail.com)
