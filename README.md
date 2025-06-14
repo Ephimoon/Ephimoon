@@ -5,15 +5,16 @@
 I'm a student at the University of Houston studying Computer Science 👩🏻‍💻
 
 ## Finished Recently:
+- **AI Video Chatbot**: A chatbot that responds with a Video based on what the client is asking while chatting.
 - 🎨 **Museum of Fine Arts Database System**: A project for managing art collections, exhibitions, and other operations.
 - 🎈 **Volunteer Management System**: A project to help a non-profit organization manage volunteering events.
 
 ## 🌱 Currently working on...
-- **AI Video Chatbot**: A chatbot that responds with a Video based on what the client is asking while chatting.
+- **Friends Portfolio**
 
 ## 💻 Technologies & Skills
 - 🌐 Web Development: HTML, CSS, React
-- 💾 Backend: Python, C++
+- 💾 Backend: Python, C++, JS
 - 🎨 UI/UX: Figma
 
 ---
