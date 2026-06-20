@@ -18,7 +18,7 @@
 ♡ **Museum Management Web App** ˖ ° full-stack platform with role-based accounts,
   ticketing, exhibitions, and a normalized relational schema ˖
 
-## ⋆｡˚ Stack
+## ⋆｡˚ Technologies I have worked with
 
 ˖ ✦ **Languages** ⊹ ࣪  Python, C++, JavaScript, TypeScript, Swift, SQL, R, HTML/CSS, C#  ˖
 
