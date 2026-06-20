@@ -1,6 +1,6 @@
 <img width="1055" alt="Screenshot 2024-01-27 at 6 35 30 PM" src="https://github.com/Ephimoon/Ephimoon/assets/157929578/d2b6dfb3-f7fb-48fc-a6eb-d4755ba4e0fd">
 
-# ✦ Melanie Escobar Marulanda ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
+# ✦ Melanie Escobar ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
 ✿ Recent CS grad from the University of Houston, May 2026 ˚₊
 
