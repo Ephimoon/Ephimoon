@@ -31,7 +31,5 @@
 ## ♡ Reach me ˚₊
 
 [melanie@melesco.com](mailto:melanie@melesco.com) ✧ [melesco.com](https://melesco.com) ⟡ [linkedin](https://linkedin.com/in/melanie-escobar-marulanda)
-<!---
-Ephimoon/Ephimoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://gitwar.herokuapp.com/badge?username=Ephimoon&color=ff69b4)
