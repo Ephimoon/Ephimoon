@@ -1,0 +1,79 @@
+name: Update Tiny Footprints Badge
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Get unique visitors and update README
+        env:
+          GH_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          OWNER: Ephimoon
+          REPO: Ephimoon
+        run: |
+          set -euo pipefail
+
+          RESPONSE=$(curl -sS \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/$OWNER/$REPO/traffic/views")
+
+          UNIQUES=$(echo "$RESPONSE" | jq -r '.uniques // empty')
+
+          if [ -z "$UNIQUES" ]; then
+            echo "Could not read unique visitors."
+            echo "$RESPONSE"
+            exit 1
+          fi
+
+          export UNIQUES
+
+          python3 <<'PY'
+          from pathlib import Path
+          import os
+          import re
+
+          readme = Path("README.md")
+          text = readme.read_text()
+
+          uniques = os.environ["UNIQUES"]
+
+          new_block = (
+              "<!-- UNIQUE-VISITORS:START -->\n"
+              f"![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message={uniques}&labelColor=ffcce6&color=ff69b4&style=flat-square)\n"
+              "<!-- UNIQUE-VISITORS:END -->"
+          )
+
+          pattern = r"<!-- UNIQUE-VISITORS:START -->.*?<!-- UNIQUE-VISITORS:END -->"
+
+          if not re.search(pattern, text, flags=re.DOTALL):
+              raise SystemExit("Could not find UNIQUE-VISITORS block in README.md")
+
+          text = re.sub(pattern, new_block, text, flags=re.DOTALL)
+          readme.write_text(text)
+          PY
+
+      - name: Commit unique visitor README update
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git diff --quiet README.md; then
+            echo "No badge changes to commit."
+          else
+            git add README.md
+            git commit -m "Update tiny footprints badge"
+            git push
+          fi
