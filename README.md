@@ -32,4 +32,4 @@
 
 [melanie@melesco.com](mailto:melanie@melesco.com) ✧ [melesco.com](https://melesco.com) ⟡ [linkedin](https://linkedin.com/in/melanie-escobar-marulanda)
 
-![](https://gitwar.herokuapp.com/badge?username=Ephimoon&color=ff69b4)
+![Unique visitors](https://img.shields.io/badge/unique%20visitors-17-ff69b4?style=flat-square)
