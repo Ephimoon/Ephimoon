@@ -32,4 +32,4 @@
 
 [melanie@melesco.com](mailto:melanie@melesco.com) ✧ [melesco.com](https://melesco.com) ⟡ [linkedin](https://linkedin.com/in/melanie-escobar-marulanda)
 
-![Unique visitors](https://img.shields.io/badge/unique%20visitors-17-ff69b4?style=flat-square)
+![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message=0&labelColor=ffcce6&color=ff69b4&style=flat-square)
