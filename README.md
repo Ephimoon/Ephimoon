@@ -28,7 +28,7 @@
 
 ˖ ✦ **Developer Tools** ⊹ ࣪  Git, GitHub, Docker, Vercel, Postman, DataGrip, VS Code, Figma, Jira, Unity ˖
 
-## ♡ Reach me ˚₊
+## ♡ Reach me ˚₊:
 
 [melanie@melesco.com](mailto:melanie@melesco.com) ✧ [melesco.com](https://melesco.com) ⟡ [linkedin](https://linkedin.com/in/melanie-escobar-marulanda)
 
