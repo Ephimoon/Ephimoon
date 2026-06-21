@@ -1,22 +1,33 @@
-<img width="1055" alt="Screenshot 2024-01-27 at 6 35 30 PM" src="https://github.com/Ephimoon/Ephimoon/assets/157929578/d2b6dfb3-f7fb-48fc-a6eb-d4755ba4e0fd">
+<!-- https://readme-typing-svg.demolab.com/demo/?weight=700&size=35&duration=3000&pause=500&color=36B337&background=EDEFE800&center=true&vCenter=true&repeat=false&width=800&height=100&lines=%E2%80%A7%CB%9A%CB%9A%E2%80%A7%EF%BD%A1%E2%8B%86+Hello+Hello%2C+I%27m+Melanie+%E2%8B%86%EF%BD%A1%E2%80%A7%CB%9A%CB%9A%E2%80%A7 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=36B337&background=EDEFE800&center=true&vCenter=true&repeat=false&width=800&height=100&lines=%E2%80%A7%CB%9A%CB%9A%E2%80%A7%EF%BD%A1%E2%8B%86+Hello+Hello%2C+I'm+Melanie+%E2%8B%86%EF%BD%A1%E2%80%A7%CB%9A%CB%9A%E2%80%A7)](https://git.io/typing-svg)
 
-# ✦ Melanie Escobar ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
+✿ I am a new CS grad from the University of Houston as of May 2026 ˚₊
 
-✿ Recent CS grad from the University of Houston, May 2026 ˚₊
+## > Check out my website ! ?
+
+[melesco.com](https://melesco.com)
 
 ## ꩜ Recently Built ꩜
 
 ♡ **Spara AI Chatbot** ˖ ° AI video-response chatbot with multi-LLM routing (OpenAI & Gemini),
   embedding-based product matching, and Google Cloud video streaming ˖
+
+  <!-- badge that links to the repo -->
   
 ♡ **Real-Time Elevator Scheduler** ˖ ° simulated embedded controller comparing FIFO, Priority,
   EDF, and RM algorithms across workloads, with an interactive GUI ˖
+
+    <!-- badge that links to the repo -->
   
 ♡ **FoodLens** ˖ ° iOS nutrition tracker with USDA food lookup, barcode scanning,
   AI-generated insights via Firebase AI (Gemini) ˖
+
+    <!-- badge that links to the repo -->
   
 ♡ **Museum Management Web App** ˖ ° full-stack platform with role-based accounts,
   ticketing, exhibitions, and a normalized relational schema ˖
+
+    <!-- badge that links to the repo -->
 
 ## ⋆｡˚ Technologies I have worked with
 
@@ -30,7 +41,9 @@
 
 ## ♡ Reach me ˚₊
 
-[melanie@melesco.com](mailto:melanie@melesco.com) ✧ [melesco.com](https://melesco.com) ⟡ [linkedin](https://linkedin.com/in/melanie-escobar-marulanda)
+<code><a href="mailto:melanie@melesco.com" title="melanie@melesco.com"><img width="22" src="images/mail.svg"> melanie@melesco.com</a></code>
+⟡ 
+<code><a href="[https://www.linkedin.com/in/osmandurdag/](https://linkedin.com/in/melanie-escobar-marulanda)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 
 <!-- UNIQUE-VISITORS:START -->
 ![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message=1&labelColor=ffcce6&color=ff69b4&style=flat-square)
