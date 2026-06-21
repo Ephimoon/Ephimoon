@@ -32,4 +32,6 @@
 
 [melanie@melesco.com](mailto:melanie@melesco.com) ✧ [melesco.com](https://melesco.com) ⟡ [linkedin](https://linkedin.com/in/melanie-escobar-marulanda)
 
-![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message=0&labelColor=ffcce6&color=ff69b4&style=flat-square)
+"<!-- UNIQUE-VISITORS:START -->\n"
+  f"![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message={uniques}&labelColor=ffcce6&color=ff69b4&style=flat-square)\n"
+"<!-- UNIQUE-VISITORS:END -->"
