@@ -1,5 +1,9 @@
+<div align="center">
+  
 <!-- https://readme-typing-svg.demolab.com/demo/?weight=700&size=35&duration=3000&pause=500&color=36B337&background=EDEFE800&center=true&vCenter=true&repeat=false&width=800&height=100&lines=%E2%80%A7%CB%9A%CB%9A%E2%80%A7%EF%BD%A1%E2%8B%86+Hello+Hello%2C+I%27m+Melanie+%E2%8B%86%EF%BD%A1%E2%80%A7%CB%9A%CB%9A%E2%80%A7 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=D49629&background=EDEFE800&center=true&vCenter=true&repeat=false&width=800&height=100&lines=%E2%80%A7%CB%9A%CB%9A%E2%80%A7%EF%BD%A1%E2%8B%86+Hello+Hello%2C+I'm+Melanie+%E2%8B%86%EF%BD%A1%E2%80%A7%CB%9A%CB%9A%E2%80%A7)](https://git.io/typing-svg)
+
+</div>
 
 <p align="left">
   <img align="left" width="250" src="directory/tukilinda.gif" alt="Tuki and Linda gif" />
@@ -138,6 +142,10 @@
 
 <br>
 
+<div align="center">
+  
 <!-- UNIQUE-VISITORS:START -->
 ![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message=1&labelColor=E1B569&color=AF8055&style=flat-square)
 <!-- UNIQUE-VISITORS:END -->
+
+</div>
