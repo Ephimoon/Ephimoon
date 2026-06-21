@@ -5,10 +5,11 @@
   <img align="left" width="250" src="directory/tukilinda.gif" alt="Tuki and Linda gif" />
 </p>
 
+<br clear="center"/>
 
-<p align="center">✿ I am a new CS grad from the University of Houston as of May 2026 ˚₊  ꩜  ˖ °  ♡  ⋆｡˚  ⊹ ࣪   ✦  ⟡</p>
+<p align="center">✿ I am a new CS grad from the University of Houston as of May 2026 ˚₊⟡</p>
 
-<p align="center">♡ Reach me ˚₊</p>
+<p align="center">꩜ Reach me</p>
 
 <p align="center">
   <a 
@@ -19,6 +20,8 @@
       src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg"
       >
   </a>
+</p>
+<p align="center">
   <a 
     href="mailto:melanie@melesco.com" 
     title="melanie@melesco.com">
@@ -27,6 +30,8 @@
       src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"
       >
   </a>
+</p>
+<p align="center">  
   <a 
     href="https://linkedin.com/in/melanie-escobar-marulanda" 
     title="LinkedIn Profile">
@@ -38,10 +43,12 @@
 </p>
 
 <br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
 
 **⋆｡˚ Technologies I have worked with ˖**
 
-**˖ ✦ Languages & Markup ⊹ ࣪**
+**˖ ♡ Languages & Markup ⊹ ࣪**
 
 <p>
   <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
@@ -68,7 +75,7 @@
   <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg">
 </p>
 
-**˖ ✦ Backend, APIs & Auth ⊹ ࣪**
+**˖ ♡ Backend, APIs & Auth ⊹ ࣪**
 
 <p>
   <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg">
@@ -93,7 +100,7 @@
   <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg">
 </p>
 
-**˖ ✦ AI, ML & Data ⊹ ࣪**
+**˖ ♡ AI, ML & Data ⊹ ࣪**
 
 <p>
   <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg">
