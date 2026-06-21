@@ -50,8 +50,11 @@ jobs:
 
           uniques = os.environ["UNIQUES"]
 
-          new_block = (![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message={uniques}&labelColor=ffcce6&color=ff69b4&style=flat-square))
-
+          new_block = (
+              "<!-- UNIQUE-VISITORS:START -->\n"
+              f"![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message={uniques}&labelColor=ffcce6&color=ff69b4&style=flat-square)\n"
+              "<!-- UNIQUE-VISITORS:END -->"
+          )
           pattern = r"<!-- UNIQUE-VISITORS:START -->.*?<!-- UNIQUE-VISITORS:END -->"
 
           if not re.search(pattern, text, flags=re.DOTALL):
