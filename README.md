@@ -1,21 +1,15 @@
 <div align="center">
   
 <!-- https://readme-typing-svg.demolab.com/demo/?weight=700&size=35&duration=3000&pause=500&color=36B337&background=EDEFE800&center=true&vCenter=true&repeat=false&width=800&height=100&lines=%E2%80%A7%CB%9A%CB%9A%E2%80%A7%EF%BD%A1%E2%8B%86+Hello+Hello%2C+I%27m+Melanie+%E2%8B%86%EF%BD%A1%E2%80%A7%CB%9A%CB%9A%E2%80%A7 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=D49629&background=EDEFE800&center=true&vCenter=true&repeat=false&width=800&height=100&lines=%E2%80%A7%CB%9A%CB%9A%E2%80%A7%EF%BD%A1%E2%8B%86+Hello+Hello%2C+I'm+Melanie+%E2%8B%86%EF%BD%A1%E2%80%A7%CB%9A%CB%9A%E2%80%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=36B337&background=EDEFE800&center=true&vCenter=true&repeat=false&width=380&height=40&lines=Hello%2C+I'm+Melanie)](https://git.io/typing-svg)
 
 </div>
 
 <!-- [Icons](https://github.com/ziadOUA/m3-Markdown-Badges) -->
 
-<p align="left">
-  <img align="left" width="250" src="directory/tukilinda.gif" alt="Tuki and Linda gif" />
-</p>
+<p align="center">I am a CS new grad from the University of Houston as of May 2026</p>
 
-<br clear="center"/>
-
-<p align="center">✿ I am a new CS grad from the University of Houston as of May 2026 ˚₊ ⟡</p>
-
-<p align="center"><b>⋆｡˚ Reach me ˚｡⋆</b></p>
+<p align="center"><b>Reach me</b></p>
 
 <p align="center">
   <a 
@@ -52,13 +46,13 @@
 
 <div align="center">
 
-**꩜ toolbox ꩜**
+**tools I have used**
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-**˖ ♡ code & markup ⊹ ࣪**
+**code & markup**
 
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
@@ -75,7 +69,7 @@
 </td>
 <td align="center" width="50%">
 
-**˖ ✦ app & frontend ⊹ ࣪**
+**app & frontend**
 
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg">
@@ -90,7 +84,7 @@
 <tr>
 <td align="center" width="50%">
 
-**˖ ♡ backend & APIs ⊹ ࣪**
+**backend & APIs**
 
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg">
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg">
@@ -102,7 +96,7 @@
 </td>
 <td align="center" width="50%">
 
-**˖ ✦ cloud & data ⊹ ࣪**
+**cloud & data**
 
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg">
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg">
@@ -118,7 +112,7 @@
 <tr>
 <td align="center" width="50%">
 
-**˖ ♡ ML & data tools ⊹ ࣪**
+**ML & data tools**
 
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg">
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg">
@@ -126,7 +120,7 @@
 </td>
 <td align="center" width="50%">
 
-**˖ ✦ tools & design ⊹ ࣪**
+**tools & design**
 
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
 <img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg">
