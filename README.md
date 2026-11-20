@@ -7,7 +7,7 @@
 
 <!-- [Icons](https://github.com/ziadOUA/m3-Markdown-Badges) -->
 
-<p align="center">I am a new grad from the University of Houston looking for a full-time technical role, mainly in software engineering. I am interested in full-stack development, cloud, DevOps/CI/CD, and building useful apps with clean user experiences.</p>
+<p align="center">I am a new grad from the University of Houston and a computer scientist for Hill AFB. I am interested in full-stack development, cloud, DevOps/CI/CD, and building useful apps with clean user experiences.</p>
 
 <p align="center"><b>Reach me</b></p>
 
