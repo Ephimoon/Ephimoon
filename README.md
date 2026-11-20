@@ -139,9 +139,5 @@
 <br>
 
 <div align="center">
-  
-<!-- UNIQUE-VISITORS:START -->
-![Tiny footprints](https://img.shields.io/static/v1?label=%F0%9F%90%BE%20tiny%20footprints&message=1&labelColor=E1B569&color=AF8055&style=flat-square)
-<!-- UNIQUE-VISITORS:END -->
 
 </div>
